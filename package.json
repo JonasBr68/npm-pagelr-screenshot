@@ -1,0 +1,32 @@
+{
+  "name": "pagelr-screenshot",
+  "version": "0.1.0",
+  "description": "Create and get screenshot images of web pages using the https://www.pagelr.com screenshot service from JavaScript quick and simple",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JonasBr68/npm-pagelr-screenshot.git"
+  },
+  "keywords": [
+    "webpage",
+    "website",
+    "screenshot",
+    "service",
+    "thumbnails",
+    "javascript",
+    "png",
+    "jpg"
+  ],
+  "author": "jonasbr68",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JonasBr68/npm-pagelr-screenshot/issues"
+  },
+  "homepage": "https://github.com/JonasBr68/npm-pagelr-screenshot#readme",
+  "dependencies": {
+    "fibers": "^2.0.2"
+  }
+}
